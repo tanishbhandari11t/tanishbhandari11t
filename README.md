@@ -82,26 +82,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanishbhandari11t&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=tanishbhandari11t&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
 ---
