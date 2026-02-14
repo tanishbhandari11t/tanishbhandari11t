@@ -106,13 +106,13 @@
 
 ---
 
-## 🐍 Contribution Graph
+## � Pacman Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanishbhandari11t/tanishbhandari11t/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanishbhandari11t/tanishbhandari11t/output/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/tanishbhandari11t/tanishbhandari11t/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanishbhandari11t/tanishbhandari11t/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanishbhandari11t/tanishbhandari11t/output/pacman-contribution-graph.svg" />
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/tanishbhandari11t/tanishbhandari11t/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
 
